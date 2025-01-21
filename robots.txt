@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jakartanewsjp.github.io/sitemap.xml
